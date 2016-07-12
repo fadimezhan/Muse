@@ -2,5 +2,6 @@
   =link_to (image_tag post.image.url(:small)), post
   %h2= link_to post.title, post
   %p= time_ago_in_words(post.created_at)
+  %p= post.comments.count
 
 =link_to "New Inspiration", new_post_path
