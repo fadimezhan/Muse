@@ -1,28 +1,13 @@
-== README
+== Muse 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Share your inspirations and see what's inspiring others.
 
 Things you may want to cover:
+=== Welcome Page
+https://cloud.githubusercontent.com/assets/9321091/16767991/d2c562da-484a-11e6-8fc0-3974c261b2fa.jpg
 
-* Ruby version
+=== Show Page
+https://cloud.githubusercontent.com/assets/9321091/16768014/f3cc12d0-484a-11e6-8175-0b7981d0063a.jpg
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+=== Comments
+https://cloud.githubusercontent.com/assets/9321091/16768037/1e995b3a-484b-11e6-8efc-3d41301ccbbb.jpg
