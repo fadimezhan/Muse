@@ -2,7 +2,7 @@
 
 Share your inspirations and see what's inspiring others.
 
-Things you may want to cover:
+
 === Welcome Page
 https://cloud.githubusercontent.com/assets/9321091/16767991/d2c562da-484a-11e6-8fc0-3974c261b2fa.jpg
 
